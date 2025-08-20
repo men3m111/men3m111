@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F7DF1E&center=true&vCenter=true&lines=Front-End+Developer;Accounting+Student;Bug+Bounty+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F7DF1E&center=true&vCenter=true&lines=Front-End+Developer;)](https://git.io/typing-svg)
 
 ---
 
