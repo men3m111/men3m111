@@ -29,4 +29,6 @@
 ---
 
 ## 🌍 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/mohamed-abdelmoneim-284854292/)  
+- [LinkedIn](https://www.linkedin.com/in/mohamed-abdelmoneim-284854292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [instagram](https://www.instagram.com/me.n.3m?igsh=MjkzNnpqY3M5azRj)
+- [facebook](https://www.facebook.com/share/19iBcPfG4g/)
