@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🎓 Accounting student & Front-End Developer  
 - 💻 Passionate about Problem Solving & Cybersecurity  
-- 🌱 Currently learning Bug Bounty & JavaScript  
+- 🌱 Currently learning React.js  
 
 ---
 
